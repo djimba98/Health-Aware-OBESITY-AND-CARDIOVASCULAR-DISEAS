@@ -11,6 +11,10 @@
 ### Project Overview
 I have conducted a thorough analysis of the data regarding obesity and its correlation with cardiovascular diseases. Through this analysis, I have gained valuable insights that can greatly contribute to the campaign for promoting healthier lifestyles. By understanding the intricate relationship between obesity and cardiovascular diseases, we can tailor our strategies more effectively to encourage better living practices and prevent the onset of these debilitating conditions.
 
+![image](https://github.com/djimba98/Health-Aware-OBESITY-AND-CARDIOVASCULAR-DISEAS/assets/164912911/e0a6a547-5b95-4c14-9bd3-04801096c745)
+
+
+
 ### Data Sources 
 
 Sales data: The seconday dataset used for this analysis is the "HGealth data - analysis", containing detailed information about each record  from the survey.
